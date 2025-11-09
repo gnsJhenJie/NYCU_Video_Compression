@@ -1,0 +1,14 @@
+Image size: 320x320
+Block size: 8x8
+
+Search range +- 8:
+  Full  - PSNR: 22.8113 dB, time: 2.504839 s
+  TSS   - PSNR: 22.1591 dB, time: 0.261758 s
+
+Search range +- 16:
+  Full  - PSNR: 25.4122 dB, time: 9.494573 s
+  TSS   - PSNR: 22.8635 dB, time: 0.507848 s
+
+Search range +- 32:
+  Full  - PSNR: 29.0194 dB, time: 39.050271 s
+  TSS   - PSNR: 23.2050 dB, time: 0.547612 s
