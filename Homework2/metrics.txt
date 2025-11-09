@@ -1,0 +1,8 @@
+Image size: 512x512
+2D-DCT time (s): 0.015197
+Two 1D-DCT time (s): 0.009328
+Max |DCT(2D) - DCT(1D)|: 1.7053e-11
+IDCT(2D) time (s): 0.011674
+IDCT(1D) time (s): 0.014038
+PSNR (2D recon) dB: inf
+PSNR (1D recon) dB: inf
